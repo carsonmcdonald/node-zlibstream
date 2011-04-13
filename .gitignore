@@ -1,0 +1,3 @@
+build
+.lock-wscript
+lib/zlibstream_binding.node
